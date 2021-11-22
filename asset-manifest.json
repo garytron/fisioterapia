@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/fisioterapia/static/css/main.7f98c94e.chunk.css",
+    "main.js": "/fisioterapia/static/js/main.a3bc35f0.chunk.js",
+    "main.js.map": "/fisioterapia/static/js/main.a3bc35f0.chunk.js.map",
+    "runtime-main.js": "/fisioterapia/static/js/runtime-main.852fa838.js",
+    "runtime-main.js.map": "/fisioterapia/static/js/runtime-main.852fa838.js.map",
+    "static/js/2.c424635d.chunk.js": "/fisioterapia/static/js/2.c424635d.chunk.js",
+    "static/js/2.c424635d.chunk.js.map": "/fisioterapia/static/js/2.c424635d.chunk.js.map",
+    "static/js/3.01699fd5.chunk.js": "/fisioterapia/static/js/3.01699fd5.chunk.js",
+    "static/js/3.01699fd5.chunk.js.map": "/fisioterapia/static/js/3.01699fd5.chunk.js.map",
+    "index.html": "/fisioterapia/index.html",
+    "static/css/main.7f98c94e.chunk.css.map": "/fisioterapia/static/css/main.7f98c94e.chunk.css.map",
+    "static/js/2.c424635d.chunk.js.LICENSE.txt": "/fisioterapia/static/js/2.c424635d.chunk.js.LICENSE.txt",
+    "static/media/femur.b6503b2c.png": "/fisioterapia/static/media/femur.b6503b2c.png",
+    "static/media/patella.49905ce4.png": "/fisioterapia/static/media/patella.49905ce4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.852fa838.js",
+    "static/js/2.c424635d.chunk.js",
+    "static/css/main.7f98c94e.chunk.css",
+    "static/js/main.a3bc35f0.chunk.js"
+  ]
+}
